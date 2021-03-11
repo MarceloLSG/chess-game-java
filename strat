@@ -1,0 +1,29 @@
+[33mcommit 41f5f1be26f69988ec9e2eb75c42f175665d6328[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Marcelo <marceloluiz_sg@hotmail.com>
+Date:   Thu Mar 11 18:42:29 2021 -0300
+
+    test
+
+[33mcommit ef2b20962dadb35c8cdd79e11a6544aaecaf6c62[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Marcelo Gonçalves <marceloluiz_sg@hotmail.com>
+Date:   Wed Mar 10 21:03:59 2021 -0300
+
+    Starting to implement Board and Piece
+
+[33mcommit 968dec23a79d4c71aea7dbd3988ee0e68f1bbfb1[m
+Author: Marcelo Gonçalves <marceloluiz_sg@hotmail.com>
+Date:   Wed Mar 10 20:51:34 2021 -0300
+
+    First class: Ṕosition
+
+[33mcommit f95f07ab5b0a6d70e2a934536094806f3c6cf1d7[m
+Author: Marcelo Gonçalves <marceloluiz_sg@hotmail.com>
+Date:   Wed Mar 10 09:34:49 2021 -0300
+
+    Start
+
+[33mcommit 500ba31ef0c6cb84c2f4c1ce9544296af9c62bc6[m
+Author: MarceloLSG <52309744+MarceloLSG@users.noreply.github.com>
+Date:   Wed Mar 10 09:33:15 2021 -0300
+
+    Initial commit
